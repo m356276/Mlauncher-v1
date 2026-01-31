@@ -1,4 +1,4 @@
-# MLauncher – The Personal Project Launcher
+# MLauncher
 ---
 
 ![](https://i.imgur.com/qoe42Gx.png)
